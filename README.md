@@ -33,6 +33,6 @@ Skills: Data cleaning, wrangling, visualisation, analysis
 | Project Name | Description | Tableau Dashboard |
 |---|---|---|
 | 🎮 NO TIME TO PLAY: Video Game Effects on Mental and Emotional Health | A project I did with a team of 4. We analyzed and created a tableau dashboard about the studies of GAD (general anxiety disorder), SWLS (satisfaction with life scale), and SPIN (social phobia inventory) of video game users. | [Link](https://public.tableau.com/views/CapstoneDashboard_16622769014210/NOTIMETOPLAYVideoGameEffectsonMentalandEmotionalHealth?:language=en-US&:display_count=n&:origin=viz_share_link) |
-| 💼 Extended Case | Given an anonymized dataset and asked to compute the GPA (Grade Point Average) for all students in the October 2014 cohort and create a Tableau dashboard that includes their GPAs and demographic data. | [Link](https://public.tableau.com/views/Paul_Tomaine_EC3/DashboardAverageGPA?:language=en-US&:display_count=n&:origin=viz_share_link) |
+| 👨‍🎓 Analyzing student grades in the Open University | Given an anonymized dataset and asked to compute the GPA (Grade Point Average) for all students in the October 2014 cohort and create a Tableau dashboard that includes their GPAs and demographic data. | [Link](https://public.tableau.com/views/Paul_Tomaine_EC3/DashboardAverageGPA?:language=en-US&:display_count=n&:origin=viz_share_link) |
 
 ***
